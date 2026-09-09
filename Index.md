@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 - [Goat Latin](./LeetCode/Easy/Goat%20Latin) - *Easy*
 - [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
