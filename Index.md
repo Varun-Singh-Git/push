@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Implement Stack using Queues](./LeetCode/Easy/Implement%20Stack%20using%20Queues) - *Easy*
 - [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
 - [Make The String Great](./LeetCode/Easy/Make%20The%20String%20Great) - *Easy*
 - [Baseball Game](./LeetCode/Easy/Baseball%20Game) - *Easy*
