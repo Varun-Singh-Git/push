@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 - [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
