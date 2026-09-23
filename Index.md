@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) - *Easy*
 - [Lucky Numbers in a Matrix](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix) - *Easy*
 - [Count Binary Substrings](./LeetCode/Easy/Count%20Binary%20Substrings) - *Easy*
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
