@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
 - [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
 - [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) - *Easy*
 - [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) - *Easy*
