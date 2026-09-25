@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
 - [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) - *Easy*
 - [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) - *Easy*
 - [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) - *Easy*
