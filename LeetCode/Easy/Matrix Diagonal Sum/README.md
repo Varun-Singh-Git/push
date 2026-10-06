@@ -9,7 +9,7 @@
 | **Tags** | Array, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/matrix-diagonal-sum/) |
 | **Runtime** | 1 ms |
-| **Memory** | 46.3 MB |
+| **Memory** | 46.6 MB |
 
 ## Problem Description
 
