@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) - *Easy*
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
 - [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
 - [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
