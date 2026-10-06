@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) - *Easy*
 - [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
 - [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
