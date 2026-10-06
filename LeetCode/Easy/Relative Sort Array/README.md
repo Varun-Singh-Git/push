@@ -9,7 +9,7 @@
 | **Tags** | Array, Hash Table, Sorting, Counting Sort, Quicksort, Bubble Sort |
 | **Link** | [View Problem](https://leetcode.com/problems/relative-sort-array/) |
 | **Runtime** | 0 ms |
-| **Memory** | 43.9 MB |
+| **Memory** | 43.7 MB |
 
 ## Problem Description
 
