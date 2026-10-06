@@ -9,7 +9,7 @@
 | **Tags** | Array |
 | **Link** | [View Problem](https://leetcode.com/problems/max-consecutive-ones/) |
 | **Runtime** | 2 ms |
-| **Memory** | 52.6 MB |
+| **Memory** | 52.3 MB |
 
 ## Problem Description
 
