@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) - *Easy*
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) - *Easy*
