@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
 - [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) - *Easy*
