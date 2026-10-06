@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [String Compression](./LeetCode/Medium/String%20Compression) - *Medium*
 - [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) - *Easy*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
