@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
