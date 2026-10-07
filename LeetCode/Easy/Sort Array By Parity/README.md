@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | October 6, 2026 |
+| **Solved On** | October 7, 2026 |
 | **Tags** | Array, Two Pointers, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/sort-array-by-parity/) |
 | **Runtime** | 0 ms |
-| **Memory** | 46.5 MB |
+| **Memory** | 46.9 MB |
 
 ## Problem Description
 
