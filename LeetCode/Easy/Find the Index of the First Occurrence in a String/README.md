@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 22, 2026 |
+| **Solved On** | October 7, 2026 |
 | **Tags** | Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm |
 | **Link** | [View Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | **Runtime** | 1 ms |
-| **Memory** | 43 MB |
+| **Memory** | 42.8 MB |
 
 ## Problem Description
 
