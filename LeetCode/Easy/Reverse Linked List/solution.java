@@ -11,29 +11,15 @@
 
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
-
-        while (curr != null) {
-            ListNode nextNode = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = nextNode;
+        if (head == null || head.next == null) {
+            return head;
         }
 
-        return prev;
-    }
+        ListNode newHead = reverseList(head.next);
 
-    public static void printList(ListNode head){
-        ListNode curr=head;
-        while(curr!=null){
-            System.out.println(curr.val+"->");
-            curr=curr.next;
-        }
-    }
+        head.next.next = head;
+        head.next = null;
 
-    public static void main(String[] args){
-        ListNode head =new ListNode();
-
+        return newHead;
     }
-}    
+}
