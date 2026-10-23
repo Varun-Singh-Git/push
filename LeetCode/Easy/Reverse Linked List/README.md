@@ -9,7 +9,7 @@
 | **Tags** | Linked List, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/reverse-linked-list/) |
 | **Runtime** | 0 ms |
-| **Memory** | 43.7 MB |
+| **Memory** | 43.6 MB |
 
 ## Problem Description
 
