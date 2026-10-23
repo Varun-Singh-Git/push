@@ -22,4 +22,12 @@ class Solution {
 
         return newHead;
     }
+
+ public static void printList(ListNode head){
+        ListNode curr=head;
+        while(curr!=null){
+            System.out.println(curr.val+"->");
+            curr=curr.next;
+        }
+    }
 }
