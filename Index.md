@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [String Compression](./LeetCode/Medium/String%20Compression) - *Medium*
 - [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) - *Easy*
