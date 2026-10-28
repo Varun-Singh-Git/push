@@ -5,15 +5,15 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | October 27, 2026 |
+| **Solved On** | October 28, 2026 |
 | **Tags** | Linked List, Two Pointers, Stack, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/palindrome-linked-list/) |
-| **Runtime** | 7 ms |
-| **Memory** | 99.3 MB |
+| **Runtime** | 15 ms |
+| **Memory** | 101.1 MB |
 
 ## Problem Description
 
-<p>Given the <code>head</code> of a singly linked list, return <code>true</code><em> if it is a </em><span data-keyword="palindrome-sequence" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_t_" data-state="closed" class="" fdprocessedid="qmyyc"><em>palindrome</em></button></span><em> or </em><code>false</code><em> otherwise</em>.</p>
+<p>Given the <code>head</code> of a singly linked list, return <code>true</code><em> if it is a </em><span data-keyword="palindrome-sequence" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_t_" data-state="closed" class="" fdprocessedid="u30ra2"><em>palindrome</em></button></span><em> or </em><code>false</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
