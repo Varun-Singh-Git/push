@@ -8,26 +8,25 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+import java.util.Stack;
+
 class Solution {
     public boolean isPalindrome(ListNode head) {
+        Stack<Integer> stack = new Stack<>();
+
         ListNode temp = head;
-        
-        ArrayList<Integer> list = new ArrayList<>();
-         while (temp != null) {
-            list.add(temp.val);
+        while (temp != null) {
+            stack.push(temp.val);
             temp = temp.next;
         }
 
-        int left = 0;
-        int right = list.size() - 1;
-
-        while (left < right) {
-            if (!list.get(left).equals(list.get(right))) {
+        temp = head;
+        while (temp != null) {
+            if (temp.val != stack.pop()) {
                 return false;
             }
-
-            left++;
-            right--;
+            temp = temp.next;
         }
 
         return true;
