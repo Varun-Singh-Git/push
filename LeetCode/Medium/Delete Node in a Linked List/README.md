@@ -5,7 +5,7 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | October 27, 2026 |
+| **Solved On** | October 30, 2026 |
 | **Tags** | Linked List |
 | **Link** | [View Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | **Runtime** | 0 ms |
