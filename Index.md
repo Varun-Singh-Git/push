@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) - *Medium*
 - [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
 - [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
