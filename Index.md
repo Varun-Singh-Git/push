@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) - *Medium*
 - [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
