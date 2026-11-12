@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) - *Easy*
 - [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) - *Easy*
 - [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) - *Easy*
