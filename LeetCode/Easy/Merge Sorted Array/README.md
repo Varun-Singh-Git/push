@@ -8,8 +8,8 @@
 | **Solved On** | November 12, 2026 |
 | **Tags** | Array, Two Pointers, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/merge-sorted-array/) |
-| **Runtime** | 2 ms |
-| **Memory** | 42.9 MB |
+| **Runtime** | 0 ms |
+| **Memory** | 43.4 MB |
 
 ## Problem Description
 
