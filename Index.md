@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) - *Medium*
 - [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
 - [Find the Peaks](./LeetCode/Easy/Find%20the%20Peaks) - *Easy*
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
