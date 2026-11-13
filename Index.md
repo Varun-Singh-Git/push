@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Find the Peaks](./LeetCode/Easy/Find%20the%20Peaks) - *Easy*
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
 - [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
