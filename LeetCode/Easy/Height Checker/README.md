@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | October 6, 2026 |
+| **Solved On** | November 13, 2026 |
 | **Tags** | Array, Sorting, Counting Sort, Bubble Sort |
 | **Link** | [View Problem](https://leetcode.com/problems/height-checker/) |
-| **Runtime** | 5 ms |
-| **Memory** | 43.6 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 42.2 MB |
 
 ## Problem Description
 
@@ -20,7 +20,7 @@
 <p>Return <em>the <strong>number of indices</strong> where </em><code>heights[i] != expected[i]</code>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><span class="float-right -my-0.5 ml-2 inline-flex select-none items-center" data-example-lang-controls=""><span role="group" class="inline-flex h-6 items-center rounded-sd-md bg-sd-muted p-0.5" data-example-lang-toggle=""><button type="button" aria-pressed="true" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-sd-border bg-sd-background text-sd-foreground" fdprocessedid="6zjclk">Original</button><button type="button" aria-pressed="false" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-transparent text-sd-muted-foreground hover:text-sd-foreground" fdprocessedid="cd3dur">Java</button></span></span><strong class="example">Example 1:</strong></p>
 
 <pre><strong>Input:</strong> heights = [1,1,4,2,1,3]
 <strong>Output:</strong> 3
