@@ -8,8 +8,8 @@
 | **Solved On** | November 13, 2026 |
 | **Tags** | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | **Link** | [View Problem](https://leetcode.com/problems/sort-an-array/) |
-| **Runtime** | 29 ms |
-| **Memory** | 82.2 MB |
+| **Runtime** | 31 ms |
+| **Memory** | 82.5 MB |
 
 ## Problem Description
 
