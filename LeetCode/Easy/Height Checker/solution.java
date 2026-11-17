@@ -2,39 +2,38 @@
 class Solution {
     public int heightChecker(int[] heights) {
 
-        int[] expected = new int[heights.length];
-        int[] realHeight = new int[heights.length];
+        // Step 1: Create frequency array
+        int[] count = new int[101];
 
-        // Copy original heights into both arrays
-        for (int i = 0; i < heights.length; i++) {
-            expected[i] = heights[i];
-            realHeight[i] = heights[i];
+        // Step 2: Count frequency of each height
+        for (int h : heights) {
+            count[h]++;
         }
 
-        // Bubble Sort on expected array
-        for (int i = 0; i < expected.length; i++) {
+        // Step 3: Initialize variables
+        int mismatch = 0;
+        int index = 0;
 
-            for (int j = 0; j < expected.length - i - 1; j++) {
+        // Step 4: Generate sorted order using counting sort
+        for (int h = 1; h <= 100; h++) {
 
-                if (expected[j] > expected[j + 1]) {
+            // Repeat according to frequency
+            while (count[h] > 0) {
 
-                    int temp = expected[j];
-                    expected[j] = expected[j + 1];
-                    expected[j + 1] = temp;
+                // Compare original and sorted elements
+                if (heights[index] != h) {
+                    mismatch++;
                 }
+
+                // Move to next index
+                index++;
+
+                // Decrease frequency
+                count[h]--;
             }
         }
 
-        // Compare both arrays
-        int count = 0;
-
-        for (int i = 0; i < heights.length; i++) {
-
-            if (realHeight[i] != expected[i]) {
-                count++;
-            }
-        }
-
-        return count;
+        // Step 5: Return total mismatches
+        return mismatch;
     }
 }
