@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | October 6, 2026 |
+| **Solved On** | November 17, 2026 |
 | **Tags** | Array, Hash Table, Sorting, Counting Sort, Quicksort, Bubble Sort |
 | **Link** | [View Problem](https://leetcode.com/problems/relative-sort-array/) |
 | **Runtime** | 0 ms |
-| **Memory** | 43.7 MB |
+| **Memory** | 43.1 MB |
 
 ## Problem Description
 
@@ -18,7 +18,7 @@
 <p>Sort the elements of <code>arr1</code> such that the relative ordering of items in <code>arr1</code> are the same as in <code>arr2</code>. Elements that do not appear in <code>arr2</code> should be placed at the end of <code>arr1</code> in <strong>ascending</strong> order.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><span class="float-right -my-0.5 ml-2 inline-flex select-none items-center" data-example-lang-controls=""><span role="group" class="inline-flex h-6 items-center rounded-sd-md bg-sd-muted p-0.5" data-example-lang-toggle=""><button type="button" aria-pressed="true" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-sd-border bg-sd-background text-sd-foreground" fdprocessedid="79gubd">Original</button><button type="button" aria-pressed="false" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-transparent text-sd-muted-foreground hover:text-sd-foreground" fdprocessedid="w8vjy8">Java</button></span></span><strong class="example">Example 1:</strong></p>
 
 <pre><strong>Input:</strong> arr1 = [2,3,1,3,2,4,6,7,9,2,19], arr2 = [2,1,4,3,9,6]
 <strong>Output:</strong> [2,2,2,1,4,3,3,9,6,7,19]
