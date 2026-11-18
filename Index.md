@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 - [The K Weakest Rows in a Matrix](./LeetCode/Easy/The%20K%20Weakest%20Rows%20in%20a%20Matrix) - *Easy*
 - [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) - *Medium*
