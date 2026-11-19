@@ -9,7 +9,7 @@
 | **Tags** | Array, Two Pointers, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) |
 | **Runtime** | 3 ms |
-| **Memory** | 47.9 MB |
+| **Memory** | 47.8 MB |
 
 ## Problem Description
 
