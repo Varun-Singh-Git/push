@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) - *Medium*
 - [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) - *Medium*
 - [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) - *Medium*
 - [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) - *Easy*
