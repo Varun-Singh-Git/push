@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) - *Easy*
 - [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) - *Easy*
 - [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) - *Medium*
 - [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) - *Medium*
