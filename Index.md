@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) - *Medium*
 - [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) - *Easy*
 - [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) - *Easy*
 - [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) - *Medium*
