@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reorder List](./LeetCode/Medium/Reorder%20List) - *Medium*
 - [Partition List](./LeetCode/Medium/Partition%20List) - *Medium*
 - [Rotate List](./LeetCode/Medium/Rotate%20List) - *Medium*
 - [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) - *Medium*
