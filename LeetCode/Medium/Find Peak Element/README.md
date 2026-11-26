@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | November 13, 2026 |
+| **Solved On** | November 26, 2026 |
 | **Tags** | Array, Binary Search |
 | **Link** | [View Problem](https://leetcode.com/problems/find-peak-element/) |
 | **Runtime** | 0 ms |
-| **Memory** | 43.5 MB |
+| **Memory** | 43.6 MB |
 
 ## Problem Description
 
@@ -22,7 +22,7 @@
 <p>You must write an algorithm that runs in <code>O(log n)</code> time.</p>
 
 <p>&nbsp;</p>
-<p><span class="float-right -my-0.5 ml-2 inline-flex select-none items-center" data-example-lang-controls=""><span role="group" class="inline-flex h-6 items-center rounded-sd-md bg-sd-muted p-0.5" data-example-lang-toggle=""><button type="button" aria-pressed="true" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-sd-border bg-sd-background text-sd-foreground" fdprocessedid="p7k5s7">Original</button><button type="button" aria-pressed="false" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-transparent text-sd-muted-foreground hover:text-sd-foreground" fdprocessedid="yfpvd">Java</button></span></span><strong class="example">Example 1:</strong></p>
+<p><span class="float-right -my-0.5 ml-2 inline-flex select-none items-center" data-example-lang-controls=""><span role="group" class="inline-flex h-6 items-center rounded-sd-md bg-sd-muted p-0.5" data-example-lang-toggle=""><button type="button" aria-pressed="true" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-sd-border bg-sd-background text-sd-foreground" fdprocessedid="4vmvbr">Original</button><button type="button" aria-pressed="false" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-transparent text-sd-muted-foreground hover:text-sd-foreground" fdprocessedid="u53omp">Java</button></span></span><strong class="example">Example 1:</strong></p>
 
 <pre><strong>Input:</strong> nums = [1,2,3,1]
 <strong>Output:</strong> 2
