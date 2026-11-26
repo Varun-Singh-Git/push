@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | November 18, 2026 |
+| **Solved On** | November 26, 2026 |
 | **Tags** | Binary Search, Interactive |
 | **Link** | [View Problem](https://leetcode.com/problems/first-bad-version/) |
-| **Runtime** | 13 ms |
-| **Memory** | 41.3 MB |
+| **Runtime** | 14 ms |
+| **Memory** | 41.6 MB |
 
 ## Problem Description
 
@@ -20,7 +20,7 @@
 <p>You are given an API <code>bool isBadVersion(version)</code> which returns whether <code>version</code> is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.</p>
 
 <p>&nbsp;</p>
-<p><span class="float-right -my-0.5 ml-2 inline-flex select-none items-center" data-example-lang-controls=""><span role="group" class="inline-flex h-6 items-center rounded-sd-md bg-sd-muted p-0.5" data-example-lang-toggle=""><button type="button" aria-pressed="true" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-sd-border bg-sd-background text-sd-foreground" fdprocessedid="afpvw">Original</button><button type="button" aria-pressed="false" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-transparent text-sd-muted-foreground hover:text-sd-foreground" fdprocessedid="z5dm0o">Java</button></span></span><strong class="example">Example 1:</strong></p>
+<p><span class="float-right -my-0.5 ml-2 inline-flex select-none items-center" data-example-lang-controls=""><span role="group" class="inline-flex h-6 items-center rounded-sd-md bg-sd-muted p-0.5" data-example-lang-toggle=""><button type="button" aria-pressed="true" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-sd-border bg-sd-background text-sd-foreground" fdprocessedid="qwsexb">Original</button><button type="button" aria-pressed="false" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-transparent text-sd-muted-foreground hover:text-sd-foreground" fdprocessedid="pe4bjjs">Java</button></span></span><strong class="example">Example 1:</strong></p>
 
 <pre><strong>Input:</strong> n = 5, bad = 4
 <strong>Output:</strong> 4
